@@ -1,0 +1,37 @@
+# === Eclipse-specific files ===
+.project
+.classpath
+.settings/
+bin/
+tmp/
+
+# === IntelliJ IDEA (in case the project is opened in it later) ===
+.idea/
+*.iml
+out/
+
+# === Compiled Java class files ===
+*.class
+
+# === Logs and reports ===
+*.log
+
+# === System files ===
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# === Environment-specific ===
+.env
+*.swp
+*.swo
+
+# === Package files ===
+*.jar
+*.war
+*.ear
+
+# === Git-specific ===
+.git/
+
+# === VSCode (if used for editing) ===
+.vscode/
