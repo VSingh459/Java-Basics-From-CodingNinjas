@@ -3,8 +3,7 @@
  * Description: This program calculates the value of nCr (combinations) using nested function calls.
  *              It defines a factorial function and an NcR function that uses factorial to compute combinations.
  *              The user is prompted to enter values for n and r, and the result of nCr is displayed.
- * Author: [Your Name]
- * Date: [Optional - Add date if needed]
+ 
  */
 
 
